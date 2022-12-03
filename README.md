@@ -18,6 +18,6 @@
 
 Рисунок 16.3 - Окно Game  
 
-![РИСУНОК](https://gspics.org/image/0Xbn5O)  
+![РИСУНОК](https://gspics.org/images/2022/12/03/0Xb9fe.png)  
 
 Рисунок 16.4 - Окно Inspector объекта PlayBtn  
