@@ -6,18 +6,18 @@
 
 
 
-![РИСУНОК](https://gspics.org/image/0Xb9fe)  
+![РИСУНОК](https://gspics.org/images/2022/12/03/0Xb9fe.png)  
 
 Рисунок 16.1 - Окно Hierarchy  
 
-![РИСУНОК](https://gspics.org/image/0XbDsX)  
+![РИСУНОК](https://gspics.org/images/2022/12/03/0XbDsX.png)  
 
 Рисунок 16.2 - Окно Scene  
 
-![РИСУНОК](https://gspics.org/image/0XbGWi)  
+![РИСУНОК](https://gspics.org/images/2022/12/03/0XbGWi.png)  
 
 Рисунок 16.3 - Окно Game  
 
-![РИСУНОК](https://gspics.org/images/2022/12/03/0Xb9fe.png)  
+![РИСУНОК](https://gspics.org/images/2022/12/03/0Xbn5O.png)  
 
 Рисунок 16.4 - Окно Inspector объекта PlayBtn  
